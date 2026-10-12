@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Practica PHP</title>
+<style>
+body{font-family:Arial;background:#0f172a;color:white;text-align:center;padding:20px}
+.caja{background:#d4edda;color:#155724;border:3px solid #28a745;border-radius:20px;padding:25px;font-weight:bold;font-size:20px}
+h1{color:#25D366}
+</style>
+</head>
+<body>
+<h1>Practica-php</h1>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="90">
+<div class="caja">
+✅ RESULTADO EXITOSO<br><br>
+<b>Alumno:</b> Andre Ram<br>
+<b>Lenguaje:</b> PHP<br>
+<b>Estatus:</b> Conexion OK<br><br>
+<img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" width="60">
+</div>
+</body>
+</html>
